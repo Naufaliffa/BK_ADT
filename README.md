@@ -6,3 +6,4 @@ Dataset yang digunakan berasal dari link : https://archive.ics.uci.edu/dataset/4
 dataset yang dipakai bernama "hungarian.data"
 berisi 2 file ekstensi .ipynb, satu untuk tugas minggu pertama 
 sedangkan yang kedua untuk tugas minggu kedua dan telah sampai kepada tahap kesimpulan
+kemudian untuk minggu ketiga merupakan perbaikan kodingan dari minggu kedua 
